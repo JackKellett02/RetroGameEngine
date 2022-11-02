@@ -1,2 +1,72 @@
-﻿  LINK : D:\Github\RetroGameEngine\Retro Game Engine\\Debug\Missile_Command.exe not found or not built by the last incremental link; performing full link
-  Missile_Command.vcxproj -> D:\Github\RetroGameEngine\Retro Game Engine\Debug\Missile_Command.exe
+﻿  AimCommand.cpp
+  AntiAirCannon.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\AntiAirCannon.cpp(255,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\AntiAirCannon.cpp(256,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\AntiAirCannon.cpp(262,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\AntiAirCannon.cpp(263,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Bomb.cpp
+  BombSpawner.cpp
+  Button.cpp
+  CannonRangeCommand.cpp
+  ChangeButtonCommand.cpp
+  CityManager.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\CityManager.cpp(25,67): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Explosion.cpp
+  ExplosionManager.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(232,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(291,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(336,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(361,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(380,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(408,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(426,21): warning C4018: '<': signed/unsigned mismatch
+  FireCommand.cpp
+  GameManager.cpp
+  GameObject.cpp
+  GameState.cpp
+  Graphics.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(52,52): warning C4474: 'printf' : too many arguments passed for format string
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(52,52): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(91,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(91,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(91,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Graphics.cpp(91,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HighScoreManager.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\HighScoreManager.cpp(18,73): warning C4305: 'argument': truncation from 'int' to 'float'
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\HighScoreManager.cpp(18,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\HighScoreManager.cpp(18,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\HighScoreManager.cpp(18,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  InputManager.cpp
+  main.cpp
+  Menu.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Menu.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+  ChangeStateCommand.cpp
+  Generating Code...
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\ExplosionManager.cpp(174): warning C4715: 'ExplosionManager::MoveExploadbleToEndOfList': not all control paths return a value
+  Compiling...
+  PlayerManager.cpp
+  Texture.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Texture.cpp(43,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\Texture.cpp(43,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  TextureManager.cpp
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\TextureManager.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\TextureManager.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Missile_Command\source\TextureManager.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  UseButtonCommand.cpp
+  Generating Code...
+  Missile_Command.vcxproj -> D:\Github\Side Projects\SDL_RetroGameEngine\RetroGameEngine\Retro Game Engine\Debug\Missile_Command.exe
