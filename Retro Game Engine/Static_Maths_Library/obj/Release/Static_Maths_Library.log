@@ -1,8 +1,9 @@
-﻿  Matrix3.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Matrix3.cpp
   Matrix4.cpp
   Random.cpp
   Ray.cpp
   Vector2.cpp
   Vector3.cpp
   Vector4.cpp
-  Static_Maths_Library.vcxproj -> D:\Github\RetroGameEngine\Retro Game Engine\Static_Maths_Library\lib\Release\libMath.lib
+  Static_Maths_Library.vcxproj -> D:\Github\RetroGameEngine\Retro Game Engine\lib\Win32\Release\libMath.lib

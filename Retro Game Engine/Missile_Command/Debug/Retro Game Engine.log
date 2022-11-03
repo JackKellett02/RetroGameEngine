@@ -1,6 +1,0 @@
-﻿  GameManager.cpp
-E:\GitHub\ct4102-assignment-2-retrogame-JackKellett02\Retro Game Engine\Retro Game Engine\include\MathUtility.h(59,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\GitHub\ct4102-assignment-2-retrogame-JackKellett02\Retro Game Engine\Retro Game Engine\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\GitHub\ct4102-assignment-2-retrogame-JackKellett02\Retro Game Engine\Retro Game Engine\source\GameManager.cpp(119,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-E:\GitHub\ct4102-assignment-2-retrogame-JackKellett02\Retro Game Engine\Retro Game Engine\source\GameManager.cpp(119,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Retro Game Engine.vcxproj -> E:\GitHub\ct4102-assignment-2-retrogame-JackKellett02\Retro Game Engine\Debug\Retro Game Engine.exe
